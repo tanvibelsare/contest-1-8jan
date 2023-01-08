@@ -1,0 +1,27 @@
+
+div{
+   padding-left: 30px;
+   padding-right: 30px;
+   margin-top: 30px;
+   margin-bottom: 40px;
+}
+img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+h1{
+     text-decoration: underline;
+ }
+ p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 20px;
+ }
+  
+ ol{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 150;
+    font-size: 20px;
+ }
